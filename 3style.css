@@ -1,0 +1,22 @@
+.isorinis-flexbox {
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid black;
+    height: 140px;
+    width: 22%;
+    gap: 10px;
+    
+    
+}
+
+.mygtukas {
+    background-color: rgb(94, 94, 194);
+    color: white;
+    border-radius: 2px;
+    flex-grow: 1;
+    border: 1px solid rgb(179, 181, 207);
+    
+
+}
